@@ -1,4 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Portfolio/Resume Website using React JS.
+
+Clone or Download the project
+
+Open the project in vscode
+
+Open Terminal
+
+### Type the below commands
+
+$ cd my-portfolio-website
+
+$ npm install
+
+$ npm start
+
+That's all !
+
+### Additional info
 
 ## Available Scripts
 
