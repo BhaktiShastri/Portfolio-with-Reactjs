@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Portfolio/Resume Website using React JS.
-
+### This is the simple portfolio website using React JS.
+(You can clone or download the projects by following commands. You can make aditional changes according to your details and make it for yourself.)
+### Follow the steps:-
 Clone or Download the project
 
 Open the project in vscode
